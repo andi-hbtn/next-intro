@@ -3,7 +3,6 @@ export default function PhoneDetailsLayout(
 ) {
     return (
         <>
-           
             <h2>Featured product</h2>
         </>
     )
